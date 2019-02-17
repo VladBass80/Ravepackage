@@ -1,6 +1,7 @@
 {
     "name": "vladbass80/ravepackage",
     "description": "Rave text generator",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
