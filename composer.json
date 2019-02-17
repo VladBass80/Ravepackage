@@ -1,0 +1,14 @@
+{
+    "name": "vladbass80/Ravepackage",
+    "description": "Генератор бредового текста",
+    "type": "library",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Vlad Tyurin",
+            "email": "VladBass@inbox.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
