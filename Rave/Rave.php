@@ -4,7 +4,7 @@
  * Генератор бредового текста
  */
 
-namespace Ravepackage\Rave;
+namespace ravepackage\Rave;
 
 class Rave
 {
