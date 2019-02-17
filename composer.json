@@ -1,6 +1,6 @@
 {
     "name": "vladbass80/ravepackage",
-    "description": "Генератор бредового текста",
+    "description": "Rave text generator",
     "type": "library",
     "license": "MIT",
     "authors": [
